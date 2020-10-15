@@ -1,0 +1,76 @@
+    body{
+        text-align: center;
+    }
+    p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .main{
+        background-color:#f8f8f8;
+    }
+    .title{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        padding: 8px;
+    }
+    #img-div{
+        background-color: white;
+        width: 1100px;
+        height: 500px;
+        padding: 60px;
+        margin: auto;
+    
+        
+    }
+    #img-caption{
+        font-family: Comic sans-serif;
+        color: hsl(0, 0%, 40%);
+        font-family: "Comic Sans MS";
+    }
+    ul{
+        text-align: left;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 20px;
+        list-style-type: circle;
+    }
+    cite{
+        text-align: justify;
+    }
+    pre{
+        float: inline-start;
+        padding: 5px;
+        margin: 5px;
+        text-align: left;
+        font-size: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    #img{
+        width: 500px;
+        height: 400px;
+        border-radius: 8px;
+        border: 10px solid #ddd;
+        position: relative;
+        
+    }
+    #tribute-link:hover{
+        color: red;
+        background-color: transparent;
+        text-decoration: underline;
+    }
+
+    #tribute-link:link{
+        color: blue;
+        background-color: transparent;
+        text-decoration: none;
+    }
+    #tribute-info{
+        color: hsl(0, 0%, 20%);
+        font-weight: bold;
+        font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+        font-size: 14px;
+        text-align: justify;
+        padding: 5px;;
+    }
